@@ -1,3 +1,9 @@
+/**
+ * 更新確認テスト
+ */
+/*
+ * 更新確認テスト
+ */
 package jp.sys;
 
 import java.applet.Applet;
